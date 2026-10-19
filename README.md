@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**davidykmisha2015-prog/davidykmisha2015-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐼 Hello, I'm Misha!
 
-Here are some ideas to get you started:
+### 🦀 Rust Lover & Minimalist Systems Developer 🐧 NixOS Power User
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-logo-only-hires.png" width="80" alt="NixOS Logo" />
+
+---
+
+### 🚀 About Me
+* 🧠 **Tech Stack:** Rust, Nix/NixOS, Shell Scripting, Git
+* 🛠️ **Current Project:** Building **[pandash](https://github.com/davidykmisha2015-prog/pandash)** — a custom minimalist shell written in Rust.
+* ⚡ **Philosophy:** Writing clean, low-level code, breaking things to understand how they work, and embracing declarative configuration.
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidykmisha2015-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+</div>
