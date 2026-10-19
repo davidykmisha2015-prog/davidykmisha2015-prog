@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐼 Hello, I'm Misha!
+# Hello, I'm Misha!
 
 ### 🦀 Rust Lover & Minimalist Systems Developer 🐧 NixOS Power User
 
