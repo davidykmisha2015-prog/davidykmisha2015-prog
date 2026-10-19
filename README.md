@@ -16,10 +16,3 @@
 * ⚡ **Philosophy:** Writing clean, low-level code, breaking things to understand how they work, and embracing declarative configuration.
 
 </div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidykmisha2015-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-</div>
